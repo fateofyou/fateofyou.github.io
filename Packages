@@ -33,8 +33,8 @@ Maintainer: Snes4iOS Team <snes4ios@gmail.com>
 Depends: firmware (>5.1), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.macbuildserver.helloapp_1.0.0_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Size: 1600
+MD5sum: e6e17ef02109e9d57d91587414b68fb5
 Description: Snes4iOS is an SNES emulator. Firmware should be higher than 5.1
 Name: SNES4iOS
 Author: Snes4iOS Team <snes4ios@gmail.com>
