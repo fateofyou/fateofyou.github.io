@@ -1,0 +1,23 @@
+<package>
+	<id>com.macbuildserver.helloapp</id>
+	<name>Snes4ios</name>
+	<version>1.0.0-0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>5.1</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Snes4ios is a snes emulator. Requires iOS 7 and below..</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
