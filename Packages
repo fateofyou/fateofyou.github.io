@@ -38,4 +38,18 @@ MD5sum: e6e17ef02109e9d57d91587414b68fb5
 Description: Snes4iOS is an SNES emulator. Firmware should be higher than 5.1
 Name: SNES4iOS
 Author: Snes4iOS Team <snes4ios@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.macbuildserver.helloapp
+Depiction: https://fateofyou.github.io/depictions/?p=com.macbuildserver.helloapp
+
+Package: com.180.antirevoke
+Version: 0.0.1
+Section: Tweaks
+Maintainer: stem grade
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.180.antirevoke_0.0.1_iphoneos-arm.deb
+Size: 22
+MD5sum: bcba0a691b6bd856c8174348d7a67de2
+Description: Anti Revoke
+Name: antirevoke
+Author: stem grade
+Depiction: https://fateofyou.github.io/depictions/?p=com.180.antirevoke
