@@ -1,0 +1,23 @@
+<package>
+	<id>com.180.antirevoke</id>
+	<name>antirevoke</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>5.1</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Its an anti revoke</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
